@@ -52,7 +52,7 @@ function App() {
 
   
   }, []);
-
+  console.log(process.env)
  
 
   const getCartData = async (url) => {

@@ -2,16 +2,16 @@
 import { initializeApp } from "firebase/app";
 // TODO: Add SDKs for Firebase products that you want to use
 // https://firebase.google.com/docs/web/setup#available-libraries
-
- 
+import env from "react-dotenv";
+ console.log("daa",env)
 
 const firebaseConfig = {
-  apiKey: process.env.API_KEY,
-  authDomain: process.env.AUTH_DOMAIN,
-  projectId: process.env.PROJECT_ID,
-  storageBucket: process.env.STORAGES_BUCKET,
-  messagingSenderId: process.env.MESSAGEING_SENDER_ID,
-  appId: process.env.APPID
+  apiKey: env.API_KEY,
+  authDomain: env.AUTH_DOMIAN,
+  projectId: env.PROJECT_ID,
+  storageBucket: env.STORAGES_BUCKET,
+  messagingSenderId: env.MESSAGEING_SENDER_ID,
+  appId: env.APPID
 };
 // Initialize Firebase
 export const app = initializeApp(firebaseConfig);
