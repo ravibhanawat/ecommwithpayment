@@ -111,12 +111,12 @@ const Footer = () => {
                             <div className='col-md-3 part1'>
                                 <Link to='/'><img src={Logo} /></Link>
                                 <br /><br />
-                                <p>Awesome grocery store website template</p>
+                                <p>Awesome grocery store website </p>
                                 <br />
 
-                                <p><LocationOnOutlinedIcon /> <strong>Address</strong>: 5171 W Campbell Ave undefined Kent, Utah 53127 United States</p>
-                                <p><HeadphonesOutlinedIcon /> <strong>Call Us:</strong> (+91) - 540-025-124553 </p>
-                                <p><EmailOutlinedIcon /> <strong>Email:</strong> sale@Nest.com</p>
+                                <p><LocationOnOutlinedIcon /> <strong>Address</strong> India</p>
+                                <p><HeadphonesOutlinedIcon /> <strong>Call Us:</strong> (+91) - 810 -XXX-271X </p>
+                                <p><EmailOutlinedIcon /> <strong>Email:</strong> sale@xyz.com</p>
                                 <p><WatchLaterOutlinedIcon /> <strong>Hours:</strong> 10:00 - 18:00, Mon - Sat</p>
 
                             </div>
@@ -206,7 +206,7 @@ const Footer = () => {
 
                         <div className='row lastStrip'>
                             <div className='col-md-3 part_1'>
-                                <p>© 2022, Nest - HTML Ecommerce Template
+                                <p>© 2024, RAvi Ecommerce 
                                     All rights reserved</p>
                             </div>
 
