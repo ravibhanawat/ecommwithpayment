@@ -6,12 +6,12 @@ import { initializeApp } from "firebase/app";
  
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAk25jiwQ9MraYmY1KNIafzKDMuHWk9fp0",
-  authDomain: "ecomsss.firebaseapp.com",
-  projectId: "ecomsss",
-  storageBucket: "ecomsss.appspot.com",
-  messagingSenderId: "509647865571",
-  appId: "1:509647865571:web:6a9a3005d63d02eeb7e7d6"
+  apiKey: process.env.API_KEY,
+  authDomain: process.env.AUTH_DOMAIN,
+  projectId: process.env.PROJECT_ID,
+  storageBucket: process.env.STORAGES_BUCKET,
+  messagingSenderId: process.env.MESSAGEING_SENDER_ID,
+  appId: process.env.APPID
 };
 // Initialize Firebase
 export const app = initializeApp(firebaseConfig);
