@@ -9,12 +9,12 @@
 .slick-prev:before{content: "\f104" !important; font-family: FontAwesome !important; font-size: 30px !important; color: #000 !important;}
 .slick-next:before{content: "\f105" !important; font-family: FontAwesome !important; font-size: 30px !important; color: #000 !important;}
 
-.slick-arrow:hover{background: #3bb77e !important;}
+.slick-arrow:hover{background: #7B67EE !important;}
 .slick-arrow:hover::before{color: #fff !important;}
 
 .home_slider_Main .slick-dots{position: absolute; bottom: 30px !important;}
 .home_slider_Main .slick-dots button::before{width: 10px !important; height: 10px !important; font-size: 18px !important;}
-.slick-active button::before{color: #3bb77e !important;}
+.slick-active button::before{color: #7B67EE !important;}
 
 .home_slider_Main .item{position: relative;}
 .home_slider_Main .item .info{position: absolute; top: 15%; left: 7%; z-index: 100;}

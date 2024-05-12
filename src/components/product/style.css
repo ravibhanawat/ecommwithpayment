@@ -6,7 +6,7 @@ border-bottom-right-radius: 50px; border-top-left-radius: 5px; text-transform: c
 
 .productThumb .badge.hot{background: #f74b81 !important;}
 .productThumb .badge.sale{background: #67bcee !important;}
-.productThumb .badge.new{background: #3BB77E !important;}
+.productThumb .badge.new{background: #7B67EE !important;}
 .productThumb .badge.best{background: #f59758 !important;}
 
 .productThumb:hover{box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);}
@@ -22,7 +22,7 @@ border-bottom-right-radius: 50px; border-top-left-radius: 5px; text-transform: c
 .productThumb .imgWrapper .overlay ul{background: #fff; width: 140px; height: auto; border-radius: 10px; border: 1px solid #BCE3C9; }
 .productThumb .imgWrapper .overlay ul li{margin-right: 0px !important;}
 .productThumb .imgWrapper .overlay ul li a{display: block; padding: 10px; border-right:  1px solid #BCE3C9;}
-.productThumb .imgWrapper .overlay ul li a svg{color: #3bb77e !important;}
+.productThumb .imgWrapper .overlay ul li a svg{color: #7B67EE !important;}
 .productThumb .imgWrapper .overlay ul li a:hover svg{color: #000 !important; opacity: 0.7;}
  
 
@@ -34,7 +34,7 @@ border-bottom-right-radius: 50px; border-top-left-radius: 5px; text-transform: c
 .productThumb .brand{color: rgba(0,0,0,0.6);}
 .productThumb .brand a{text-decoration: none;}
 
-.productThumb button{font-size: 20px !important; color: #3bb77e !important; padding: 5px 25px !important; background: #def9ec !important; text-transform: capitalize !important;}
-.productThumb button:hover{background: #3bb77e !important;
+.productThumb button{font-size: 20px !important; color: #7B67EE !important; padding: 5px 25px !important; background: #def9ec !important; text-transform: capitalize !important;}
+.productThumb button:hover{background: #7B67EE !important;
      color: #fff !important;}
 

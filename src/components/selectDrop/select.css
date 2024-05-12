@@ -8,5 +8,5 @@
 .selectDrop .searchResults::-webkit-scrollbar{width: 10px !important;}
 .selectDrop .searchResults::-webkit-scrollbar-thumb{background: #ccc !important;}
 .selectDrop .searchResults li{list-style: none; font-size: 17px; width: 100%; padding: 10px; color: rgba(0,0,0,0.7); border-radius: 7px;}
-.selectDrop .searchResults li:hover{background: #3bb77e; color: #fff;}
+.selectDrop .searchResults li:hover{background: #7B67EE; color: #fff;}
 .selectDrop .searchResults li.active{background: #f1f1f1; color: #000 !important;}

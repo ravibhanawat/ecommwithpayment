@@ -113,7 +113,7 @@
   .closeSearch{position: absolute; top: 25px !important; left: 35px !important; z-index: 100; cursor: pointer; width: 40px; height: 30px; }
   .closeSearch svg{font-size: 35px !important;}
 
-  .myAccDrop{display: flex; align-items: center; justify-content: center; width: 55px; height: 55px; background: #3bb77e; border-radius: 50%;}
+  .myAccDrop{display: flex; align-items: center; justify-content: center; width: 55px; height: 55px; background: #7B67EE; border-radius: 50%;}
   .myAccDrop svg{color: #fff !important; font-size: 35px !important;}
 
 

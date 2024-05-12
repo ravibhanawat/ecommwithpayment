@@ -174,13 +174,7 @@ const Header = (props) => {
                             <div className='col-sm-5 part2'>
                                 <div className={`headerSearch d-flex align-items-center ${isopenSearch === true ? 'open' : ''}`}>
 
-
-                                    {/* {
-                                            windowWidth < 992 &&
-                                            <div className='countryWrapper mb-4 w-100'>
-                                                <Select data={countryList} placeholder={'Your Location'} icon={<LocationOnOutlinedIcon style={{ opacity: '0.5' }} />} />
-                                            </div>
-                                        } */}
+ 
 
                                     {
                                         windowWidth < 992 && <div class="closeSearch" onClick={closeSearch}><ArrowBackIosIcon /></div>
